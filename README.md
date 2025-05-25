@@ -83,7 +83,7 @@ Berisi informasi tentang infrastruktur dan layanan transportasi.
   - `road_density`: Kepadatan jaringan jalan.
   - `parking_capacity`: Kapasitas parkir.
 
-### 5. Data Pelatihan (`mobility_train.csv`)
+### 5. Data Pelatihan (`train.csv`)
 Berisi informasi jumlah perjalanan harian untuk pelatihan model.
 
 - **Kolom**:
@@ -91,7 +91,7 @@ Berisi informasi jumlah perjalanan harian untuk pelatihan model.
   - `date`: Tanggal pengukuran.
   - `trips_thousands`: Jumlah perjalanan harian (dalam ribuan).
 
-### 6. Data Pengujian (`mobility_test.csv`)
+### 6. Data Pengujian (`test.csv`)
 Digunakan untuk menghasilkan prediksi yang disubmit ke Kaggle. Tidak mencakup variabel target.
 
 - **Kolom**:
