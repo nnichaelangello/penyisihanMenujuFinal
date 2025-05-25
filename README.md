@@ -104,5 +104,3 @@ Digunakan untuk menghasilkan prediksi yang disubmit ke Kaggle. Tidak mencakup va
 - **Tujuan Kompetisi**: Merancang model prediktif untuk memprediksi `trips_thousands` pada data pengujian, dievaluasi menggunakan *Root Mean Squared Error* (RMSE) melalui Kaggle.
 - **Format Submission**: File CSV dengan kolom `zone_id`, `date`, dan `trips_thousands`, diunggah ke Kaggle untuk penilaian otomatis.
 - **Inovasi dan Kreativitas**: Peserta didorong untuk mengembangkan strategi pengolahan data dan pemodelan yang inovatif untuk menghasilkan solusi yang akurat dan relevan dalam konteks mobilitas urban cerdas.
-
-Dokumen ini memberikan panduan strategis bagi peserta untuk memahami tantangan tahap penyisihan dan memanfaatkan dataset untuk menghasilkan solusi AI yang berdampak signifikan.
